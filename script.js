@@ -10,3 +10,5 @@ function randomTrumpTweet() {
     console.log(randomMessage);
     return randomMessage;
 }
+
+randomTrumpTweet();
